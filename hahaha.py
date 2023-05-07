@@ -1,1 +1,1 @@
-print('ini percobaan')
+print("wkwkwkwk")
